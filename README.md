@@ -1,7 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&width=435&lines=Designer;Developer;Creator" alt="Typing SVG" />
-
-# Hi there 👋
-I am a Web designer/developer based in **Bozeman, Montana** with 10+ years of experience — I'm also working on my own indie game 😊.
+# Hi there 👋 I'm John
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=A855F7&width=435&lines=Designer;Developer;Creator" alt="Typing SVG" />
+Live and Work in **Bozeman, Montana** — 😊.
 
 🔗 **[Quasar Creative](https://quasarcreative.com/)** · **[Let's Talk](https://quasarcreative.com/contact.html)**
 
